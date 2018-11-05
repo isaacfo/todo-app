@@ -5,6 +5,6 @@ insert into todos
 values
     ('walk the cat', false),        
     ('repair the hyperdrive', false),
-    ('teturn to Dagobah', false),
+    ('return to Dagobah', false),
     ('play yugioh with yoda', false),
     ('buy a flip phone', false);
